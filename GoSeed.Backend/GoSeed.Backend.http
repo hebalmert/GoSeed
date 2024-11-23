@@ -1,0 +1,6 @@
+@GoSeed.Backend_HostAddress = http://localhost:5196
+
+GET {{GoSeed.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
